@@ -46,12 +46,24 @@ Mapas que he jugado gratuitos:
 
 [Wiki de ark ](https://ark.fandom.com/es/wiki/ARK_Survival_Evolved_Wiki)
 
-Imagenes:
+Algunas imagenes de mi mapa favorito :
 
-![Imagen de pinterest](https://i.pinimg.com/736x/d2/02/14/d20214bb899b0b08ca6229d10cc0dbcd.jpg)
+Portada del mapa:
 
-<img src='https://i.pinimg.com/736x/6c/3a/87/6c3a877fc5c320f8ead0ef9fc33d709c.jpg' alt='Imagne de pinterest' witdth='300px'/>
 
-<a href='https://www.youtube.com/watch?v=IkZFOU1dwos' target='_blank'>
-<img width='30%' src='https://i.ytimg.com/an_webp/IkZFOU1dwos/mqdefault_6s.webp?du=3000&sqp=CJCg3MEG&rs=AOn4CLDBsi1MjVJmcc0tIaUtIrQLCpNDiA' alt='Los Programadores olvidan el poder del Software' />
+![Imagen de la portada de extinction](https://i.ytimg.com/vi/uOH-IOA9qq0/hqdefault.jpg)
+
+Imagen del mapa:
+
+![Imagen del mapa de extinction](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGEDC2mfjhchhC104ymKj35agHTgQIXXSPJQ&s)
+
+Imagen de como se ve por dentro:
+
+![Imagen de extinction](https://static.deltiasgaming.com/2025/03/ark-survival-evolved-extinction-dlc-.jpg)
+
+Video de como domesticar a uno de los mejores dinosaurios de extincion:
+
+
+<a href='https://www.youtube.com/watch?v=Bbo32etBtAg' target='_blank'>
+<img width='30%' src='https://i.ytimg.com/vi/Bbo32etBtAg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLABwPdqhBp-JlrjuYkVYJVN5wghug' alt='Los Programadores olvidan el poder del Software' />
 </a>
