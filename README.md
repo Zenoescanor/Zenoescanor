@@ -10,7 +10,7 @@
 
 
 
-Mapas que he jugado de pago:
+Mapas de pago en los que he participado en torneos :
 
 - The island
   - Primer mapa del juego, básico y equilibrado.
@@ -28,7 +28,7 @@ Mapas que he jugado de pago:
 
 ***
 
-Mapas que he jugado gratuitos:
+Mapas gratuitos en los que he participado en torneos :
 
 - Ragnarok
   - Gigante y muy variado, mezcla de todos los biomas.
