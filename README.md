@@ -6,28 +6,45 @@
 
 ***
 
-> Esto es una cita
+> jugando desde el 26 de octubre de 2023
 
-> Esto es otra cita
 
-> > Esto es una concatenacion
 
-Listas:
+Mapas que he jugado de pago:
 
-- Elemento
-- Elemento
-- Elemento
-    - Subelemento
+- The island
+  - Primer mapa del juego, básico y equilibrado.
+- Scorched Earth
+  - Mapa desértico con tormentas y criaturas únicas.
+- Aberration
+    - Subterráneo, con mutaciones genéticas y condiciones extremas.
+- Extinction
+  - Mezcla de biomas y una ciudad futurista con titanes.
+- Genesis: Part 1
+  - Simulación dividida en cinco biomas.
+- Genesis: Part 2
+  - Mapa masivo con un anillo espacial y nueva historia.
+
 
 ***
 
-*si* (cursiva)
+Mapas que he jugado gratuitos:
 
-**no** (negrita)
+- Ragnarok
+  - Gigante y muy variado, mezcla de todos los biomas.
+- The Center
+  - Mapa simétrico con muchas islas y cuevas.
+- Valguero
+    - Bioma aberrante y criaturas únicas.
+- Crystal Isles
+  - Mapa colorido, con cristales y zonas flotantes.
+- Lost Island
+  - Mapa masivo con ruinas, biomas diversos y tres nuevas criaturas.
+- Fjordur
+  - Mapa nórdico con reinos diferentes y acceso a mini-mapas.
 
-***tal vez*** (ambas)
 
-[El texto ...](https://Zonatmo.com)
+[Wiki de ark ](https://ark.fandom.com/es/wiki/ARK_Survival_Evolved_Wiki)
 
 Imagenes:
 
