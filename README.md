@@ -61,7 +61,7 @@ Imagen de como se ve por dentro:
 
 ![Imagen de extinction](https://static.deltiasgaming.com/2025/03/ark-survival-evolved-extinction-dlc-.jpg)
 
-Video de como domesticar a uno de los mejores dinosaurios de extincion:
+Video de como domesticar a uno de los  dinosaurios con el que gane el torneo de extincion:
 
 
 <a href='https://www.youtube.com/watch?v=Bbo32etBtAg' target='_blank'>
