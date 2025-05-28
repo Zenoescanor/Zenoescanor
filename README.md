@@ -46,7 +46,7 @@ Mapas que he jugado gratuitos:
 
 [Wiki de ark ](https://ark.fandom.com/es/wiki/ARK_Survival_Evolved_Wiki)
 
-Algunas imagenes de mi mapa favorito :
+Algunas imagenes del  mapa con el que gane un torneo :
 
 Portada del mapa:
 
