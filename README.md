@@ -64,6 +64,6 @@ Imagen de como se ve por dentro:
 Video de como domesticar a uno de los  dinosaurios con el que gane el torneo de extincion:
 
 
-<a href='https://www.youtube.com/watch?v=Bbo32etBtAg' target='_blank'>
-<img width='30%' src='https://i.ytimg.com/vi/Bbo32etBtAg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLABwPdqhBp-JlrjuYkVYJVN5wghug' alt='Los Programadores olvidan el poder del Software' />
+<a href='https://www.youtube.com/watch?v=amcgAypXhag' target='_blank'>
+<img width='30%' src='https://i.ytimg.com/an_webp/amcgAypXhag/mqdefault_6s.webp?du=3000&sqp=CNDN3MEG&rs=AOn4CLDar8RxOALGE2uikxH3M1hKnOzCww' alt='Los Programadores olvidan el poder del Software' />
 </a>
