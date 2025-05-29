@@ -65,5 +65,5 @@ Video de como domesticar a uno de los  dinosaurios con el que gane el torneo de 
 
 
 <a href='https://www.youtube.com/watch?v=amcgAypXhag' target='_blank'>
-<img width='30%' src='https://i.ytimg.com/an_webp/amcgAypXhag/mqdefault_6s.webp?du=3000&sqp=CNDN3MEG&rs=AOn4CLDar8RxOALGE2uikxH3M1hKnOzCww' alt='Los Programadores olvidan el poder del Software' />
+<img width='30%' src='https://i.ytimg.com/an_webp/amcgAypXhag/mqdefault_6s.webp?du=3000&sqp=CNDN3MEG&rs=AOn4CLDar8RxOALGE2uikxH3M1hKnOzCww'  />
 </a>
